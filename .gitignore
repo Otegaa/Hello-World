@@ -1,2 +1,5 @@
-.node-modules
+# testing
 .test.md
+
+# dependencies
+node_modules/
