@@ -53,14 +53,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://github.com/Otegaa/Hello-World)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## 💻 Getting Started <a name="getting-started"></a>
 
 > Describe how a new developer could make use of your project.
@@ -82,30 +74,11 @@ Clone this repository to your desired folder:
   git clone https://github.com/Otegaa/Hello-World.git
 ```
 
---->
-
 ### Install
 
 Install this project with:
 
 - Clone the code into your machine and run test in an editor of your choice(E.g VScode).
-
-### Usage
-
-### Run tests
-
-To run tests, run the following command:
--Install npm
-
--Run live server on the terminal
-
-### Deployment
-
-You can deploy this project using:
-
-- Deploy this project through Netlify or Github
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -115,7 +88,7 @@ You can deploy this project using:
 
 - GitHub: [@githubhandle](https://github.com/Otegaa)
 - Twitter: [@twitterhandle](https://twitter.com/O_tegaaa)
-- LinkedIn: [LinkedIn](www.linkedin.com/in/blessing-ekiugbo)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/blessing-ekiugbo/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -149,20 +122,6 @@ If you like this project or would love to tell me ways to improve it, contact me
 > Give credit to everyone who inspired your codebase.
 
 I would like to thank Microverse community for this opportunity to learn new things.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
